@@ -33,7 +33,7 @@ export default function Component() {
                   </DialogHeader>
                   <div className="flex items-center justify-center space-x-4 py-8">
                     <Phone className="h-8 w-8 text-purple-600" />
-                    <span className="text-3xl font-semibold">+1 (555) 123-4567</span>
+                    <span className="text-3xl font-semibold">+91 98721 21303</span>
                   </div>
                   <p className="text-center text-lg text-gray-600">
                     Call now to secure your discounted Diljit Dosanjh tickets!
